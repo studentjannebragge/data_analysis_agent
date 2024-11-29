@@ -26,3 +26,13 @@ This approach to data analysis offers significant benefits:
 - Flexibility in handling various query types
 - Efficient ad-hoc data exploration
  By making data insights more accessible, this method has the potential to transform how organizations leverage their data for decision-making across various fields and industries.
+
+
+# download packages:
+
+```bash=
+
+pip install -r requirements.txt
+
+```
+
